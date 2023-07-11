@@ -1,4 +1,5 @@
 # JestBasics
+This practice is based on the examples available in the jest.io documentation
 
 **Install Jest**
 npm install -save-dev jest
